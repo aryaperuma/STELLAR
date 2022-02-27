@@ -1,0 +1,86 @@
+buildscript {
+    repositories {
+        jcenter()
+        maven { url 'https://plugins.gradle.org/m2/' }
+    }
+
+    dependencies {
+        classpath 'net.saliman:gradle-cobertura-plugin:2.0.0'
+        classpath 'org.kt3k.gradle.plugin:coveralls-gradle-plugin:2.5.0-x'
+        classpath 'com.stanfy.spoon:spoon-gradle-plugin:1.2.2'
+        classpath 'gradle.plugin.com.metova:cappuccino-plugin:0.7.3'
+    }
+}
+
+apply plugin: 'com.android.application'
+apply from: "$rootDir/gradle/checkstyle.gradle"
+apply from: "$rootDir/gradle/pmd.gradle"
+apply from: "$rootDir/gradle/coverage.gradle"
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: "com.metova.cappuccino-animations"
+
+repositories {
+    mavenCentral()
+//    maven { url "http://oss.sonatype.org/content/repositories/snapshots/" }
+}
+
+
+android {
+    compileSdkVersion 28
+
+    dataBinding.enabled = true
+
+    defaultConfig {
+        applicationId 'com.byoutline.kickmaterial'
+        minSdkVersion 18
+        targetSdkVersion 28
+        versionCode 4
+        versionName '1.0.3'
+
+        multiDexEnabled false
+
+        // We use custom runner to turn off animations.
+        testInstrumentationRunner 'com.jakewharton.u2020.U2020TestRunner'
+    }
+
+    buildTypes {
+        release {
+            debuggable false
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    lintOptions {
+        lintConfig file('lint.xml')
+    }
+
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/ASL2.0'
+        exclude 'META-INF/services/javax.annotation.processing.Processor'
+        exclude 'LICENSE.txt'
+    }
+
+    dexOptions {
+        javaMaxHeapSize System.getenv('CI') ? "2g" : "4g"
+    }
+}
+
+
+apply from: 'dependencies.gradle'
+apply from: "$rootDir/gradle/byoutline/spockTests.gradle"
+
+
+// Wait before applying spoon plugin, because otherwise it does not see custom apk name.
+apply plugin: 'spoon'
+
+spoon {
+    noAnimations = true
+    adbTimeout = 60 * 10
+    debug = true
+}
+
