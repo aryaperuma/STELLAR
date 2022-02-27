@@ -1,0 +1,246 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:2:1-44:12
+MERGED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:2:1-44:12
+MERGED from [com.byoutline.secretsauce:secretsaucekt:0.8.0] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/secretsaucekt-0.8.0.aar/36db00981ca294cddeb9c4b211483635/AndroidManifest.xml:2:1-11:12
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.2.0] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/bindingcollectionadapter-recyclerview-2.2.0.aar/b95c51a442e19e3fcf9d3e39360871cc/AndroidManifest.xml:2:1-10:12
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.2.0] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/bindingcollectionadapter-2.2.0.aar/5dd6da862f79151c13528608386e22de/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.databinding:adapters:3.2.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/f626ce83eb1915cb4fc2b3bdd20a4218/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.2.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/3b526e1677e8586cfad76464cbe4ce40/AndroidManifest.xml:17:1-24:12
+MERGED from [com.metova:cappuccino:0.9.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/cappuccino-0.9.1.aar/6e57165edd90779d2ccf000015e0a01f/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:design:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/6a42447bc9b3b301b63301198a48640d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-android-support:2.18] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.18.aar/62ec0697c08a274ac649e741bdf741f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fac89ff01a13f4cbbacbf39b29bbd6ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/40a9b8bf8a589c279933192ce5bf6e71/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/4d8eb0f56a32e6d1f22592484a7e2632/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/0562d16acbad4f394948170c9701e3bc/AndroidManifest.xml:17:1-22:12
+MERGED from [nz.bradcampbell:paperparcel:2.0.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/paperparcel-2.0.1.aar/1b9a763c1083153ab272b368b5bd589f/AndroidManifest.xml:2:1-8:12
+MERGED from [nz.bradcampbell:paperparcel-kotlin:2.0.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/paperparcel-kotlin-2.0.1.aar/2f146b267c766edff7dffdc38ceff625/AndroidManifest.xml:2:1-8:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/41e90291c49f2d7521fce08048a07c69/AndroidManifest.xml:15:1-20:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/5e87bc5f4ef3b91856c083381c49b40c/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.dagger:dagger-android:2.18] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/dagger-android-2.18.aar/40928bcdb582be4674535a163d5c7c49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:4.7.0] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/timber-4.7.0.aar/cb96aaaabe3804809563c5b4d25968c8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/58975e5c24ae2cfb2a5ced6e079ef86e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/1ecbb9c9766e0bc2865a6ca53f61e115/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/caa105083ebc2ad0710a334f142b368c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a0fd7e420a93d4f972151adb2fc6c61e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/cce2ae364d331c20208bb5c67561236e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e21e7fb710737deb206e16603af61cc4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/7e61b277e63e52764ec2c5d990efb4dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/239badc7c4e9286739b655578db0e01c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fc48acc75887ddd53951c5d172aec2fe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fa54cd884021433b8d5a42cb514331ad/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/113b5bfe4d35ad8a984d97e5c804c761/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6d6375cb04996e13d5da31a41d303d97/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/832996b37fb99a9de9236543fd7a6f08/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/42ae1bcf238036118d6c0a44ff476c51/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/debug/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/debug/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/debug/AndroidManifest.xml:2:1-12:12
+	package
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:8:5-43:19
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.2.0] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/bindingcollectionadapter-recyclerview-2.2.0.aar/b95c51a442e19e3fcf9d3e39360871cc/AndroidManifest.xml:8:5-20
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.2.0] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/bindingcollectionadapter-recyclerview-2.2.0.aar/b95c51a442e19e3fcf9d3e39360871cc/AndroidManifest.xml:8:5-20
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.2.0] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/bindingcollectionadapter-2.2.0.aar/5dd6da862f79151c13528608386e22de/AndroidManifest.xml:8:5-20
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.2.0] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/bindingcollectionadapter-2.2.0.aar/5dd6da862f79151c13528608386e22de/AndroidManifest.xml:8:5-20
+MERGED from [com.metova:cappuccino:0.9.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/cappuccino-0.9.1.aar/6e57165edd90779d2ccf000015e0a01f/AndroidManifest.xml:11:5-15:41
+MERGED from [com.metova:cappuccino:0.9.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/cappuccino-0.9.1.aar/6e57165edd90779d2ccf000015e0a01f/AndroidManifest.xml:11:5-15:41
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/5e87bc5f4ef3b91856c083381c49b40c/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/5e87bc5f4ef3b91856c083381c49b40c/AndroidManifest.xml:22:5-28:19
+MERGED from [com.jakewharton.timber:timber:4.7.0] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/timber-4.7.0.aar/cb96aaaabe3804809563c5b4d25968c8/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.0] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/timber-4.7.0.aar/cb96aaaabe3804809563c5b4d25968c8/AndroidManifest.xml:7:5-20
+	android:supportsRtl
+		ADDED from [com.metova:cappuccino:0.9.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/cappuccino-0.9.1.aar/6e57165edd90779d2ccf000015e0a01f/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:11:9-50
+	android:allowBackup
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:13:9-40
+	tools:replace
+		ADDED from [com.metova:cappuccino:0.9.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/cappuccino-0.9.1.aar/6e57165edd90779d2ccf000015e0a01f/AndroidManifest.xml:15:9-38
+	android:usesCleartextTraffic
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:9:9-40
+activity#com.byoutline.kickmaterial.features.projectlist.MainActivity
+ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:17:9-24:20
+	android:label
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:18:13-88
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.byoutline.kickmaterial.features.projectdetails.ProjectDetailsActivity
+ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:26:9-28:105
+	android:parentActivityName
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:28:13-102
+	android:name
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:27:13-101
+activity#com.byoutline.kickmaterial.features.rewardlist.RewardsListActivity
+ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:29:9-103
+	android:name
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:29:19-100
+activity#com.byoutline.kickmaterial.features.selectcategory.CategoriesListActivity
+ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:30:9-110
+	android:name
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:30:19-107
+activity#com.byoutline.kickmaterial.features.projectdetails.VideoActivity
+ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:31:9-33:53
+	android:screenOrientation
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:33:13-50
+	android:name
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:32:13-92
+activity#com.byoutline.secretsauce.activities.WebViewActivityV7
+ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:34:9-37:52
+	android:configChanges
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:36:13-59
+	android:theme
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:35:13-82
+activity#com.byoutline.secretsauce.activities.WebViewFlickrActivity
+ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:38:9-41:52
+	android:configChanges
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:40:13-59
+	android:theme
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:41:13-49
+	android:name
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml:39:13-86
+uses-sdk
+INJECTED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml
+MERGED from [com.byoutline.secretsauce:secretsaucekt:0.8.0] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/secretsaucekt-0.8.0.aar/36db00981ca294cddeb9c4b211483635/AndroidManifest.xml:7:5-9:41
+MERGED from [com.byoutline.secretsauce:secretsaucekt:0.8.0] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/secretsaucekt-0.8.0.aar/36db00981ca294cddeb9c4b211483635/AndroidManifest.xml:7:5-9:41
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.2.0] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/bindingcollectionadapter-recyclerview-2.2.0.aar/b95c51a442e19e3fcf9d3e39360871cc/AndroidManifest.xml:6:5-44
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.2.0] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/bindingcollectionadapter-recyclerview-2.2.0.aar/b95c51a442e19e3fcf9d3e39360871cc/AndroidManifest.xml:6:5-44
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.2.0] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/bindingcollectionadapter-2.2.0.aar/5dd6da862f79151c13528608386e22de/AndroidManifest.xml:6:5-44
+MERGED from [me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.2.0] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/bindingcollectionadapter-2.2.0.aar/5dd6da862f79151c13528608386e22de/AndroidManifest.xml:6:5-44
+MERGED from [com.android.databinding:adapters:3.2.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/f626ce83eb1915cb4fc2b3bdd20a4218/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.2.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/f626ce83eb1915cb4fc2b3bdd20a4218/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/3b526e1677e8586cfad76464cbe4ce40/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/3b526e1677e8586cfad76464cbe4ce40/AndroidManifest.xml:22:5-44
+MERGED from [com.metova:cappuccino:0.9.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/cappuccino-0.9.1.aar/6e57165edd90779d2ccf000015e0a01f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.metova:cappuccino:0.9.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/cappuccino-0.9.1.aar/6e57165edd90779d2ccf000015e0a01f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/6a42447bc9b3b301b63301198a48640d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/6a42447bc9b3b301b63301198a48640d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.18] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.18.aar/62ec0697c08a274ac649e741bdf741f5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.18] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.18.aar/62ec0697c08a274ac649e741bdf741f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fac89ff01a13f4cbbacbf39b29bbd6ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fac89ff01a13f4cbbacbf39b29bbd6ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/40a9b8bf8a589c279933192ce5bf6e71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/40a9b8bf8a589c279933192ce5bf6e71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/4d8eb0f56a32e6d1f22592484a7e2632/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/4d8eb0f56a32e6d1f22592484a7e2632/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/0562d16acbad4f394948170c9701e3bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/0562d16acbad4f394948170c9701e3bc/AndroidManifest.xml:20:5-44
+MERGED from [nz.bradcampbell:paperparcel:2.0.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/paperparcel-2.0.1.aar/1b9a763c1083153ab272b368b5bd589f/AndroidManifest.xml:6:5-43
+MERGED from [nz.bradcampbell:paperparcel:2.0.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/paperparcel-2.0.1.aar/1b9a763c1083153ab272b368b5bd589f/AndroidManifest.xml:6:5-43
+MERGED from [nz.bradcampbell:paperparcel-kotlin:2.0.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/paperparcel-kotlin-2.0.1.aar/2f146b267c766edff7dffdc38ceff625/AndroidManifest.xml:6:5-43
+MERGED from [nz.bradcampbell:paperparcel-kotlin:2.0.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/paperparcel-kotlin-2.0.1.aar/2f146b267c766edff7dffdc38ceff625/AndroidManifest.xml:6:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/41e90291c49f2d7521fce08048a07c69/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.0] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/rxandroid-2.1.0.aar/41e90291c49f2d7521fce08048a07c69/AndroidManifest.xml:18:5-43
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/5e87bc5f4ef3b91856c083381c49b40c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/5e87bc5f4ef3b91856c083381c49b40c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.18] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/dagger-android-2.18.aar/40928bcdb582be4674535a163d5c7c49/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.18] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/dagger-android-2.18.aar/40928bcdb582be4674535a163d5c7c49/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.0] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/timber-4.7.0.aar/cb96aaaabe3804809563c5b4d25968c8/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.0] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/timber-4.7.0.aar/cb96aaaabe3804809563c5b4d25968c8/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/58975e5c24ae2cfb2a5ced6e079ef86e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/58975e5c24ae2cfb2a5ced6e079ef86e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/1ecbb9c9766e0bc2865a6ca53f61e115/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/1ecbb9c9766e0bc2865a6ca53f61e115/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/caa105083ebc2ad0710a334f142b368c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/caa105083ebc2ad0710a334f142b368c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a0fd7e420a93d4f972151adb2fc6c61e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/a0fd7e420a93d4f972151adb2fc6c61e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/cce2ae364d331c20208bb5c67561236e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/cce2ae364d331c20208bb5c67561236e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e21e7fb710737deb206e16603af61cc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e21e7fb710737deb206e16603af61cc4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/7e61b277e63e52764ec2c5d990efb4dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/7e61b277e63e52764ec2c5d990efb4dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/239badc7c4e9286739b655578db0e01c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/239badc7c4e9286739b655578db0e01c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fc48acc75887ddd53951c5d172aec2fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/fc48acc75887ddd53951c5d172aec2fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fa54cd884021433b8d5a42cb514331ad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/fa54cd884021433b8d5a42cb514331ad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/113b5bfe4d35ad8a984d97e5c804c761/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/113b5bfe4d35ad8a984d97e5c804c761/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6d6375cb04996e13d5da31a41d303d97/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6d6375cb04996e13d5da31a41d303d97/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/832996b37fb99a9de9236543fd7a6f08/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/832996b37fb99a9de9236543fd7a6f08/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/42ae1bcf238036118d6c0a44ff476c51/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/42ae1bcf238036118d6c0a44ff476c51/AndroidManifest.xml:20:5-44
+INJECTED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/debug/AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/debug/AndroidManifest.xml:6:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/debug/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/debug/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/debug/AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/debug/AndroidManifest.xml:8:22-65
+uses-permission#android.permission.SET_ANIMATION_SCALE
+ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/debug/AndroidManifest.xml:9:5-10:47
+	tools:ignore
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/debug/AndroidManifest.xml:10:9-44
+	android:name
+		ADDED from /Users/aryaperuma/Downloads/kickmaterial-master/app/src/debug/AndroidManifest.xml:9:22-75
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/5e87bc5f4ef3b91856c083381c49b40c/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/5e87bc5f4ef3b91856c083381c49b40c/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/5e87bc5f4ef3b91856c083381c49b40c/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/5e87bc5f4ef3b91856c083381c49b40c/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/aryaperuma/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/5e87bc5f4ef3b91856c083381c49b40c/AndroidManifest.xml:24:13-83
